@@ -14,7 +14,7 @@ ENV/
 
 # PyCharm files
 .idea/
-
+.idea/workspace.xml
 # Distribution / packaging
 .Python
 build/
